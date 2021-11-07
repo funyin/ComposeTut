@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ComposeTut</string>
+    <string name="title_activity_onboarding">OnboardingActivity</string>
+    <string name="contentDescriptionExpanded">Show Less</string>
+    <string name="contentDescriptionCollapsed">Show More</string>
+</resources>
